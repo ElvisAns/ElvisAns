@@ -11,7 +11,7 @@ I feel peacefull when figuring out new things.
 
 > I daily consider myself as an incomplete guy
 
-⚡ Fun fact: Deejaying,Designing and Watching football
+⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://pin.it/1UaZ9U2) and Watching football
 
 
 About myself
