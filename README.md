@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-Im Elvis, someone who loves to code and innovate!
+**Im Elvis, someone who loves to code and innovate!**
 I feel peacefull when figuring out new things.
 
-🌱 I’m currently learning at PluralSight, IBM Digital Nation and at DataCamp, just to name a few
+🌱 I’m currently learning at PluralSight, IBM Digital Nation and at DataCamp, just to name a few.
+<br>
 I daily consider myself as an incomplete guy
 
 ⚡ Fun fact: Deejaying,Designing and Watching football
