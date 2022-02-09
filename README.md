@@ -5,7 +5,7 @@ Hi there 👋
 
 **Im Elvis, someone who loves to code and innovate!**
 
-https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white
+<img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white">
 
 :smiley: I feel peacefull when figuring out new things.
 
