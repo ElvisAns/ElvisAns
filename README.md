@@ -23,12 +23,28 @@ About myself
 - ✍️ &nbsp; I Love :heartpulse: PHP, Javascript and Arduino Language at the top 
 
 
-<h3>🛠 Tech Stack<h3>
----------------------
+🛠 Tech Stack
+-------------
 
-- 💻 &nbsp; PHP | CodeIgniter | JavaScript | VueJS | Jquery | VueJs | Embedded C
+- 💻 &nbsp; PHP | CodeIgniter | JavaScript | Apache Cordova | AndroidJS | VueJS | Jquery| Embedded C | Boostrap | Bulma CSS | MarkDown
 - 🛢 &nbsp; MySQL | PostgeSQL 
 - 🔧 &nbsp; Git | Heroku | Render Cloud | CI/CD
+<br/>
+
+🛠 Tools
+-------------
+- :large_blue_diamond: Composer
+- :large_blue_diamond: PHPStorm
+- :large_blue_diamond: Arduino IDE
+- :large_blue_diamond: Heroku Cli
+- :large_blue_diamond: OSWAP ZAP
+- :large_blue_diamond: Git Bash
+- :large_blue_diamond: Postman
+- :large_blue_diamond: Photoshop
+- :large_blue_diamond: Apache Server
+- :large_blue_diamond: Proteus Design Suite
+- :large_blue_diamond: NPM & NodeJS
+- :large_blue_diamond: Packagist
 <br/>
 
 
