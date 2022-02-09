@@ -5,6 +5,8 @@ Hi there 👋
 
 **Im Elvis, someone who loves to code and innovate!**
 
+https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white
+
 :smiley: I feel peacefull when figuring out new things.
 
 🌱 I’m currently learning at PluralSight, IBM Digital Nation and at DataCamp, just to name a few. 
@@ -48,12 +50,6 @@ About myself
 <br/>
 
 <h3> 🤝🏻 Connect with Me </h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/ansima-cibalinda-elvis-9a658415b/> :linkdn
-<a href="https://www.instagram.com/linjanjapacifique/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-linjanjapacifique__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
-</p>
 
 <!--
 **ElvisAns/ElvisAns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
