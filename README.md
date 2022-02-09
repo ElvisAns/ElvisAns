@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Im Elvis, someone who loves to code and innovate!
+I feel peacefull when figuring out new things.
+
+🌱 I’m currently learning at PluralSight, IBM Digital Nation and at DataCamp, just to name a few
+I daily consider myself as an incomplete guy
+
+- ⚡ Fun fact: Deejaying,Designing and Watching football
+
 <!--
 **ElvisAns/ElvisAns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
