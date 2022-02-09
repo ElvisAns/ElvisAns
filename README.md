@@ -28,7 +28,7 @@ About myself
 
 - 💻 &nbsp; PHP | CodeIgniter | JavaScript | VueJS | Jquery | VueJs | Embedded C
 - 🛢 &nbsp; MySQL | PostgeSQL 
-- 🔧 &nbsp; Git 
+- 🔧 &nbsp; Git | Heroku | Render Cloud | CI/CD
 <br/>
 
 
