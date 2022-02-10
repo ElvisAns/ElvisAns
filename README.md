@@ -15,6 +15,10 @@ Hi there 👋
 
 ⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://pin.it/1UaZ9U2) and Watching football
 
+🖐️ Chekout my earned badges [credly link](https://www.credly.com/users/ansima-cibalinda)
+
+🤝 I've participate in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
+
 
 About myself
 ------------
