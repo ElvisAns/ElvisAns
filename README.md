@@ -17,7 +17,7 @@ Hi there 👋
 
 🖐️ Chekout my earned badges [credly link](https://www.credly.com/users/ansima-cibalinda)
 
-🤝 I've participate in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
+🤝 I've participated in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
 
 
 About myself
