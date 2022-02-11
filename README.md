@@ -18,6 +18,7 @@ Hi there 👋
 🖐️ Chekout my earned badges [credly link](https://www.credly.com/users/ansima-cibalinda)
 
 🤝 I've participated in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
+🔭 I’m currently working on a project from @ctlcosarl [atalaku xpress](https://atalakuxpress.ctlcosarl.com)
 
 
 About myself
@@ -49,11 +50,16 @@ About myself
 - :large_blue_diamond: Photoshop
 - :large_blue_diamond: Apache Server
 - :large_blue_diamond: Proteus Design Suite
-- :large_blue_diamond: NPM & NodeJS
 - :large_blue_diamond: Packagist
 <br/>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Portofolio </h3>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAns&layout=compact&show_icons=true/" width="auto" height="158"/>
+   
+   
+   [![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisAns&show_icons=true&theme=radical)](https://github.com/ElvisAns)
 
 <!--
 **ElvisAns/ElvisAns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
