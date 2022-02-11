@@ -53,13 +53,23 @@ About myself
 - :large_blue_diamond: Packagist
 <br/>
 
-<h3> 🤝🏻 Portofolio </h3>
+<h3> 🎯 Portofolio </h3>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAns&layout=compact&show_icons=true/" width="auto" height="158"/>
-   
-   
-   [![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisAns&show_icons=true&theme=radical)](https://github.com/ElvisAns)
+[![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisAns&show_icons=true&theme=radical)](https://github.com/ElvisAns) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAns&layout=compact&show_icons=true/" width="auto" height="158"/> 
+
+<h3> 😊 Connect with me 💬</h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ansima-cibalinda-elvis-9a658415b//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ElvisAnsima-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://web.facebook.com/Elvis.Ansima"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ElvisAnsima-pink?style=flat-square&logo=facebook&logoColor=white"></a>
+<a href="mailto:ansimapersic@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ansimapersic@gmail.com-red?style=flat-square&logo=Microsoft%20outlook"></a>
+</p>
+
+	https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg & https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+  
+  
+
 
 <!--
 **ElvisAns/ElvisAns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
