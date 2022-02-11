@@ -66,7 +66,7 @@ About myself
 <a href="mailto:ansimapersic@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ansimapersic@gmail.com-red?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
 
-	<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"> & <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" height="20">
   
   
 
