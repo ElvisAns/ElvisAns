@@ -61,7 +61,7 @@ About myself
 <h3> 😊 Connect with me 💬</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ansima-cibalinda-elvis-9a658415b//"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ElvisAnsima-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/ansima-cibalinda-elvis-9a658415b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ElvisAnsima-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://web.facebook.com/Elvis.Ansima"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-ElvisAnsima-pink?style=flat-square&logo=facebook&logoColor=white"></a>
 <a href="mailto:ansimapersic@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ansimapersic@gmail.com-red?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
