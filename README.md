@@ -13,7 +13,7 @@ Hi there 👋
 
 :exclamation: I daily consider myself as an incomplete guy
 
-⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://pin.it/1UaZ9U2) and Watching football
+⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football
 
 🖐️ Chekout my earned badges [credly link](https://www.credly.com/users/ansima-cibalinda)
 
