@@ -15,7 +15,8 @@ Hi there 👋
 
 ⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football
 
-🖐️ Chekout my earned badges [credly link](https://www.credly.com/users/ansima-cibalinda)
+🖐️ Chekout my earned badges [credly link](https://www.credly.com/users/ansima-cibalinda) and my portofolio is [here](https://elvisansima.netlify.app/)
+  
 
 🤝 I've participated in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
 🔭 I’m currently working on a project from @ctlcosarl [atalaku xpress](https://atalakuxpress.ctlcosarl.com)
