@@ -7,11 +7,11 @@ Hi there 👋
 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"> <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"> <img src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 
-:smiley: I feel peacefull when figuring out new things.
+:smiley: I feel peaceful when figuring out new things.
 
 🌱 I’m currently learning at PluralSight, IBM Digital Nation and at DataCamp, just to name a few. 
 
-:exclamation: I daily consider myself as an incomplete guy
+:exclamation: Daily, I consider myself as an incomplete guy
 
 ⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football
 
@@ -25,17 +25,17 @@ Hi there 👋
 About myself
 ------------
   
-- 🎓 &nbsp; I've graduate in Electronics and Telecommunication Technology, Kigali Independent University (ULK), class of 2019-2020
-- 💼 &nbsp; I Work at **[CTL.Co sarl](https://www.ctlcosarl.com)** as an Engineering Manager in IT & Electronics Departement
-- 🌱 &nbsp; Passionate about Artificial Intelligence, i'm an active learner at IBM Cloud
-- ✍️ &nbsp; I Love :heartpulse: PHP, Javascript and Arduino Language at the top 
+- 🎓 &nbsp; I've graduate in Electronics and Telecommunication Technology, from the Kigali Independent University (ULK), class of 2019-2020
+- 💼 &nbsp; I work at **[CTL.Co sarl](https://www.ctlcosarl.com)** as an Engineering Manager in IT & Electronics Department
+- 🌱 &nbsp; Passionate about Artificial Intelligence, I'm an active learner at IBM Cloud
+- ✍️ &nbsp; I Love :heartpulse: PHP, JavaScript and Arduino Language the most 
 
 
 :rocket: Tech Stack
 -------------
 
-- 💻 &nbsp; PHP | CodeIgniter | JavaScript | Apache Cordova | AndroidJS | VueJS | Jquery| Embedded C | Boostrap | Bulma CSS | MarkDown
-- 🛢 &nbsp; MySQL | PostgeSQL 
+- 💻 &nbsp; PHP | CodeIgniter | JavaScript | Apache Cordova | AndroidJS | VueJS | Jquery | Embedded C | Bootstrap | Bulma CSS | MarkDown
+- 🛢 &nbsp; MySQL | PostgreSQL 
 - 🔧 &nbsp; Git | Heroku | Render Cloud | CI/CD
 <br/>
 
@@ -70,7 +70,7 @@ About myself
 
 - Portofolio : https://elvisansima.netlify.app 
 - Codesignal: https://app.codesignal.com/profile/ansima_elvis
-- CodeByte : https://coderbyte.com/profile/ansimapersic
+- CoderByte : https://coderbyte.com/profile/ansimapersic
 
 <!--
 **ElvisAns/ElvisAns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
