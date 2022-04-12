@@ -45,13 +45,16 @@ About myself
 - :large_blue_diamond: PHPStorm
 - :large_blue_diamond: Arduino IDE
 - :large_blue_diamond: Heroku Cli
-- :large_blue_diamond: OSWAP ZAP
+- :large_blue_diamond: OWASP ZAP
 - :large_blue_diamond: Git Bash
 - :large_blue_diamond: Postman
-- :large_blue_diamond: Photoshop
-- :large_blue_diamond: Apache Server
+- :large_blue_diamond: Photoshop,Figma & Canva
+- :large_blue_diamond: Apache,NGNIX Server
 - :large_blue_diamond: Proteus Design Suite
 - :large_blue_diamond: Packagist
+- :large_blue_diamond: VS CODE
+- :large_blue_diamond: MYSQL WorkBench
+- :large_blue_diamond: TERMINAL
 <br/>
 
 <h3> 🎯 Portofolio </h3>
