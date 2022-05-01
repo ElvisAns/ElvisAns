@@ -34,7 +34,7 @@ About myself
 :rocket: Tech Stack
 -------------
 
-- 💻 &nbsp; PHP | CodeIgniter | JavaScript | Apache Cordova | AndroidJS | VueJS | Jquery | Embedded C | Bootstrap | Bulma CSS | MarkDown
+- 💻 &nbsp; PHP | Laravel | CodeIgniter | JavaScript | React JS | Apache Cordova | Capacitor | Ionic |AndroidJS | VueJS | Jquery | NodeJS |Embedded C | Bootstrap | Bulma CSS | MarkDown
 - 🛢 &nbsp; MySQL | PostgreSQL 
 - 🔧 &nbsp; Git | Heroku | Render Cloud | CI/CD
 <br/>
@@ -43,6 +43,12 @@ About myself
 -------------
 - :large_blue_diamond: Composer
 - :large_blue_diamond: PHPStorm
+- :large_blue_diamond: Laravel Artisan Commands
+- :large_blue_diamond: Webpack
+- :large_blue_diamond: Vue CLi
+- :large_blue_diamond: Create-react-app
+- :large_blue_diamond: Ionic Cli
+- :large_blue_diamond: NPM
 - :large_blue_diamond: Arduino IDE
 - :large_blue_diamond: Heroku Cli
 - :large_blue_diamond: OWASP ZAP
