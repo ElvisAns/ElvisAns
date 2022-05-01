@@ -1,4 +1,4 @@
-![myBanner](banner.png)
+![elva](https://user-images.githubusercontent.com/35831811/166162327-4e200c98-3188-4746-b044-12836f1fd692.png)
 
 Hi there 👋
 ------------
@@ -34,9 +34,9 @@ About myself
 :rocket: Tech Stack
 -------------
 
-- 💻 &nbsp; PHP | Laravel | CodeIgniter | JavaScript | React JS | Apache Cordova | Capacitor | Ionic |AndroidJS | VueJS | Jquery | NodeJS |Embedded C | Bootstrap | Bulma CSS | MarkDown
-- 🛢 &nbsp; MySQL | PostgreSQL 
-- 🔧 &nbsp; Git | Heroku | Render Cloud | CI/CD
+- 💻 &nbsp; PHP | Laravel | CodeIgniter | JavaScript | React JS | Apache Cordova | Capacitor | Ionic | VueJS | Jquery | NodeJS | Bootstrap
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
+- 🔧 &nbsp; Git | Heroku | Render Cloud | CI/CD | CloudFoundry | JIRA
 <br/>
 
 🔨 Tools
