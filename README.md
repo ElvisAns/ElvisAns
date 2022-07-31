@@ -1,8 +1,9 @@
 <!--![welcome image](https://user-images.githubusercontent.com/35831811/182024795-e4f1ff9e-8bb3-45ac-a1ba-71deaf7119a5.gif)-->
 
-![headImage](https://user-images.githubusercontent.com/35831811/182036144-8cc14a3f-4d48-4598-9bc1-559de12ea9ea.gif)
+![welcome](https://user-images.githubusercontent.com/35831811/182036565-9ac2a852-33d1-46f6-bd8c-4f78529b2570.gif)
 
-:fire: Hi there 👋!
+
+:fire: Hello 👋!
 
 ------------
 
