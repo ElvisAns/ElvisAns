@@ -15,6 +15,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ✔️ I am an experienced PHP Developer
 
+✔️ Recently I became a big fan of JAMstack with (React/Vue with any Backend solution) and Headless CMS
+
 🌱 I’m currently learning Python/Flask and NodeJS to name a few
 
 ⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football
