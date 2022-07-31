@@ -3,10 +3,13 @@
 Hi there 👋
 ------------
 
-**I'm Elvis, someone who loves to code and innovate!**
+**I'm Elvis, someone who loves to code and innovate!**, a passionate self-taught full stack web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 :smiley: I feel peaceful when figuring out new technologies.
-:smiley: I am an experienced PHP Developer
+
+🖐️ I am an experienced PHP Developer
+
 🌱 I’m currently learning Python/Flask and NodeJS to name a few
 
 ⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football
@@ -32,7 +35,8 @@ About myself
 <p align="left">
 <img src="https://icongr.am/devicon/php-original.svg?size=40&color=currentColor"> 
 <img src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=40&color=ff0000"> 
-<img src="https://icongr.am/devicon/codeigniter-plain-wordmark.svg?size=40&color=ff0000"> 
+<img src="https://icongr.am/devicon/codeigniter-plain-wordmark.svg?size=40&color=ff0000">
+<img src="https://icongr.am/devicon/wordpress-original.svg?size=41&color=9e2e2e">
 <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=9e2e2e"> 
 <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=9e2e2e" height="40">
 <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=9e2e2e" heght="40">
