@@ -15,7 +15,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football
 
-🖐️ Chekout my earned badges [credly link](https://www.credly.com/users/ansima-cibalinda) and my portofolio is [here](https://elvisansima.netlify.app/)
+🖐️ Chekout my [Earned Badges](https://www.credly.com/users/ansima-cibalinda) and my [portofolio](https://elvisansima.netlify.app/)
   
 
 🤝 I've participated in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
