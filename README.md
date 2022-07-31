@@ -1,5 +1,6 @@
-![welcome image](https://user-images.githubusercontent.com/35831811/182024795-e4f1ff9e-8bb3-45ac-a1ba-71deaf7119a5.gif)
+<!--![welcome image](https://user-images.githubusercontent.com/35831811/182024795-e4f1ff9e-8bb3-45ac-a1ba-71deaf7119a5.gif)-->
 
+![headImage](https://user-images.githubusercontent.com/35831811/182036144-8cc14a3f-4d48-4598-9bc1-559de12ea9ea.gif)
 
 Hi there 👋!
 
