@@ -5,13 +5,11 @@ Hi there 👋
 
 **I'm Elvis, someone who loves to code and innovate!**
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"> <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"> <img src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white"> <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white"> <img src ="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-:smiley: I feel peaceful when figuring out new things.
-
-🌱 I’m currently learning at PluralSight, IBM Digital Nation and at DataCamp, just to name a few. 
-
-:exclamation: Daily, I consider myself as an incomplete guy
+:smiley: I feel peaceful when figuring out new technologies.
+:smiley: I am an experienced PHP Developer
+🌱 I’m currently learning Python/Flask and NodeJS to name a few
 
 ⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football
 
@@ -19,48 +17,59 @@ Hi there 👋
   
 
 🤝 I've participated in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
-🔭 I’m currently working on a project from @ctlcosarl [atalaku xpress](https://atalakuxpress.ctlcosarl.com)
+🔭 I’m currently working on a fintech project from @ctlcosarl [atalaku xpress](https://atalakuxpress.ctlcosarl.com)
 
 
 About myself
 ------------
   
 - 🎓 &nbsp; I've graduate in Electronics and Telecommunication Technology, from the Kigali Independent University (ULK), class of 2019-2020
-- 💼 &nbsp; I work at **[CTL.Co sarl](https://www.ctlcosarl.com)** as an Engineering Manager in IT & Electronics Department
+- 💼 &nbsp; I work at **[CTL.Co sarl](https://www.ctlcosarl.com)** as an Engineering Manager & Fullstack developer (Part-Time)
 - 🌱 &nbsp; Passionate about Artificial Intelligence, I'm an active learner at IBM Cloud
-- ✍️ &nbsp; I Love :heartpulse: PHP, JavaScript and Arduino Language the most 
+- ✍️ &nbsp; I Love :heartpulse: PHP(Laravel), JavaScript(VueJS) and Arduino Language the most 
 
 
 :rocket: Tech Stack
 -------------
+<p align="left">
+<img src="https://icongr.am/devicon/php-original.svg?size=40&color=currentColor"> 
+<img src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=40&color=ff0000"> 
+<img src="https://icongr.am/devicon/codeigniter-plain-wordmark.svg?size=40&color=ff0000"> 
+<img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=9e2e2e"> 
+<img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=9e2e2e" height="40">
+<img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=9e2e2e" heght="40">
+<img src="https://icongr.am/devicon/typescript-plain.svg?size=40&color=9e2e2e"> 
+<img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=9e2e2e"> 
+<img src="https://icongr.am/devicon/ionic-original-wordmark.svg?size=60&color=9e2e2e"> 
+<img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=40&color=9e2e2e"> 
+<img src="https://icongr.am/devicon/jquery-original-wordmark.svg?size=40&color=9e2e2e"> 
+<img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=40&color=9e2e2e"> 
+<img src="https://iconape.com/wp-content/png_logo_vector/flask-logo.png" height="40">
+<img src="https://icongr.am/devicon/python-original-wordmark.svg?size=70&color=9e2e2e">
+</p>
 
-- 💻 &nbsp; PHP | Laravel | CodeIgniter | JavaScript | React JS | Apache Cordova | Capacitor | Ionic | VueJS | Jquery | NodeJS | Bootstrap
-- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB
-- 🔧 &nbsp; Git | Heroku | Render Cloud | CI/CD | CloudFoundry | JIRA
-<br/>
+<p align="left">
+<img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=40&color=9e2e2e">
+<img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=40&color=9e2e2e">
+<img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=41&color=9e2e2e">
+</p>
+
+<p align="left">
+<img src="https://icongr.am/devicon/git-original-wordmark.svg?size=41&color=9e2e2e">
+<img src="https://icongr.am/devicon/heroku-original.svg?size=41&color=9e2e2e">
+<img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=41&color=9e2e2e">
+</p>
+
 
 🔨 Tools
 -------------
 - :large_blue_diamond: Composer
-- :large_blue_diamond: PHPStorm
-- :large_blue_diamond: Laravel Artisan Commands
-- :large_blue_diamond: Webpack
-- :large_blue_diamond: Vue CLi
-- :large_blue_diamond: Create-react-app
-- :large_blue_diamond: Ionic Cli
-- :large_blue_diamond: NPM
-- :large_blue_diamond: Arduino IDE
 - :large_blue_diamond: Heroku Cli
-- :large_blue_diamond: OWASP ZAP
+- :large_blue_diamond: OWASP ZAP (Security Auditing)
 - :large_blue_diamond: Git Bash
-- :large_blue_diamond: Postman
 - :large_blue_diamond: Photoshop,Figma & Canva
-- :large_blue_diamond: Apache,NGNIX Server
-- :large_blue_diamond: Proteus Design Suite
-- :large_blue_diamond: Packagist
-- :large_blue_diamond: VS CODE
-- :large_blue_diamond: MYSQL WorkBench
-- :large_blue_diamond: TERMINAL
+- :large_blue_diamond: Visual Studio Code
+- :large_blue_diamond: MYSQL WorkBench/PGAdmin/TablePlus
 <br/>
 
 <h3> 🎯 Portofolio </h3>
