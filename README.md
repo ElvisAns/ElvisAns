@@ -1,6 +1,8 @@
-![Arrière-plan](https://user-images.githubusercontent.com/35831811/166162401-56e9d3b6-3c68-4304-96f3-baa303954d49.png)
+![welcome image](https://user-images.githubusercontent.com/35831811/182024795-e4f1ff9e-8bb3-45ac-a1ba-71deaf7119a5.gif)
 
-Hi there 👋
+
+Hi there 👋!
+
 ------------
 
 **I'm Elvis, someone who loves to code and innovate!** 
