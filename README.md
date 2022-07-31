@@ -75,6 +75,17 @@ About myself
 - :large_blue_diamond: MYSQL WorkBench/PGAdmin/TablePlus
 <br/>
 
+<h2> :octocat: My Github Stats:</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ElvisAns" alt="ElvisAns" /></a> 
+
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ElvisAns&show_icons=true&locale=en" alt="ElvisAns" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ElvisAns&" alt="ElvisAns" /></p>
+<br/>
+
 <h3> 🎯 Portofolio </h3>
 
 [![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisAns&count_private=true&show_icons=true&theme=radical)](https://github.com/ElvisAns) 
