@@ -2,7 +2,7 @@
 
 ![headImage](https://user-images.githubusercontent.com/35831811/182036144-8cc14a3f-4d48-4598-9bc1-559de12ea9ea.gif)
 
-Hi there 👋!
+:fire: Hi there 👋!
 
 ------------
 
@@ -12,7 +12,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 :smiley: I feel peaceful when figuring out new technologies.
 
-😄 I am an experienced PHP Developer
+✔️ I am an experienced PHP Developer
 
 🌱 I’m currently learning Python/Flask and NodeJS to name a few
 
