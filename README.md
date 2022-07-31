@@ -23,6 +23,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 
 🤝 I've participated in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
+
 🔭 I’m currently working on a fintech project from @ctlcosarl [atalaku xpress](https://atalakuxpress.ctlcosarl.com)
 
 
