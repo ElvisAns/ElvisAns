@@ -1,7 +1,7 @@
 <!--![welcome image](https://user-images.githubusercontent.com/35831811/182024795-e4f1ff9e-8bb3-45ac-a1ba-71deaf7119a5.gif)-->
 
 <p align="center">
-  <img src"https://user-images.githubusercontent.com/35831811/182036565-9ac2a852-33d1-46f6-bd8c-4f78529b2570.gif" alt="">
+  <img src="https://user-images.githubusercontent.com/35831811/182036565-9ac2a852-33d1-46f6-bd8c-4f78529b2570.gif" alt="">
 </p>
 
 
