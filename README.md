@@ -98,7 +98,7 @@ About myself
 [![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElvisAns&count_private=true&show_icons=true&theme=radical)](https://github.com/ElvisAns) 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAns&layout=compact&show_icons=true/" width="auto" height="158"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisAns&layout=compact&show_icons=true&langs_count=10/" width="auto" height="158"/> 
 
 <h3> 😊 Connect with me 💬</h3>
 
