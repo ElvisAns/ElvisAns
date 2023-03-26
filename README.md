@@ -17,6 +17,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ✔️ I am an experienced PHP Developer
 
+🖐️ I love open source and i do contribute to TikiCMS, https://openhub.net/accounts/ElvisAns
+
 ✔️ Recently I became a big fan of JAMstack with React/Vue and any Headless CMS
 
 🌱 I’m currently learning Python/Flask and NodeJS to name a few
@@ -30,7 +32,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 🔭 I’m currently supporting the team behind a fintech project from @ctlcosarl [atalaku xpress](https://atalakuxpress.ctlcosarl.com)
 
-🖐️ I love open source and i do contribute to TikiCMS, https://openhub.net/accounts/ElvisAns
 
 About myself
 ------------
