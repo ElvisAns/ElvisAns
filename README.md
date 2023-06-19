@@ -23,7 +23,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 🌱 I’m currently learning ExpressJs, Typescript and GraphQL to name a few
 
-⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/), [Writting]([https://fr.virtualdj.com/user/ElvisAns/](https://dev.to/elvisans)), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football and Watching football
+⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/), [Writting]([https://fr.virtualdj.com/user/ElvisAns/](https://dev.to/elvisans), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football and Watching football
 
 🖐️ Chekout my [Earned Badges](https://www.credly.com/users/ansima-cibalinda) and my [portofolio](https://elvisansima.netlify.app/)
   
