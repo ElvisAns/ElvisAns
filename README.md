@@ -21,9 +21,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ✔️ Recently I became a big fan of JAMstack with React/Vue and any Headless CMS
 
-🌱 I’m currently learning Python/Flask and NodeJS to name a few
+🌱 I’m currently learning ExpressJs, Typescript and GraphQL to name a few
 
-⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football
+⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/), [Writting]([https://fr.virtualdj.com/user/ElvisAns/](https://dev.to/elvisans)), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football and Watching football
 
 🖐️ Chekout my [Earned Badges](https://www.credly.com/users/ansima-cibalinda) and my [portofolio](https://elvisansima.netlify.app/)
   
@@ -37,9 +37,8 @@ About myself
 ------------
   
 - 🎓 &nbsp; I've graduate in Electronics and Telecommunication Technology, from the Kigali Independent University (ULK), class of 2019-2020
-- 💼 &nbsp; I work at **[CTL.Co sarl](https://www.ctlcosarl.com)** as an Engineering Manager & Fullstack developer (Part-Time)
-- 🌱 &nbsp; Passionate about Artificial Intelligence, I'm an active learner at IBM Cloud
-- ✍️ &nbsp; I Love :heartpulse: PHP(Laravel), JavaScript(VueJS) and Arduino Language the most 
+- 💼 ~&nbsp; I work at **[CTL.Co sarl](https://www.ctlcosarl.com)** as an Engineering Manager & Fullstack developer (Part-Time)~
+- ✍️ &nbsp; I used to be versatile and flexible working with different tech stacks.
 
 
 :rocket: Tech Stack
