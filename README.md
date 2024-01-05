@@ -9,7 +9,7 @@
 :fire: Hello 👋!
 
 ------------
-*Hello, I'm Elvis*, a dedicated coder and innovator! As a self-taught full stack web developer and freelance software engineer, I thrive on bringing creative ideas to life through elegant interfaces. My commitment extends to ensuring exceptional user experiences, robust architecture, and high-quality code in all my projects.
+I'm Elvis, a dedicated coder and innovator! As a self-taught full stack web developer and freelance software engineer, I thrive on bringing creative ideas to life through elegant interfaces. My commitment extends to ensuring exceptional user experiences, robust architecture, and high-quality code in all my projects.
 
 I'm an avid open-source enthusiast and contributor, having gained valuable insights from the collaborative and knowledge-sharing environment of the open-source community.
 
