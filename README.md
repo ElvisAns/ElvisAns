@@ -1,31 +1,27 @@
 <!--![welcome image](https://user-images.githubusercontent.com/35831811/182024795-e4f1ff9e-8bb3-45ac-a1ba-71deaf7119a5.gif)-->
 
-<p align="center">
+<!--p align="center">
   <img src="https://user-images.githubusercontent.com/35831811/182036565-9ac2a852-33d1-46f6-bd8c-4f78529b2570.gif" alt="">
-</p>
+</p-->
 
+![Copy of my linkedin profile banner](https://github.com/ElvisAns/ElvisAns/assets/35831811/a10af439-952c-48c9-b17e-c5a71b3cbb1a)
 
 :fire: Hello 👋!
 
 ------------
+*Hello, I'm Elvis*, a dedicated coder and innovator! As a self-taught full stack web developer and freelance software engineer, I thrive on bringing creative ideas to life through elegant interfaces. My commitment extends to ensuring exceptional user experiences, robust architecture, and high-quality code in all my projects.
 
-**I'm Elvis, someone who loves to code and innovate!** 
-I am a passionate self-taught full stack web developer and a freelance software engineer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I'm an avid open-source enthusiast and contributor, having gained valuable insights from the collaborative and knowledge-sharing environment of the open-source community.
 
-:smiley: I feel peaceful when figuring out new technologies.
+😃 Exploring new technologies brings me a sense of peace.
 
-✔️ I am an experienced PHP Developer
+✔️ With a wealth of experience in web development, I bring expertise to the table.
 
-🖐️ I love open source and i do contribute to TikiCMS, https://openhub.net/accounts/ElvisAns
-
-✔️ Recently I became a big fan of JAMstack with React/Vue and any Headless CMS
-
-🌱 I’m currently learning ExpressJs, Typescript and GraphQL to name a few
+🖐️ Passionate about open source, I actively contribute to TikiCMS. Check out my profile on [Openhub](https://openhub.net/accounts/ElvisAns)
 
 ⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/), [Writting]([https://fr.virtualdj.com/user/ElvisAns/](https://dev.to/elvisans), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football and Watching football
 
-🖐️ Chekout my [Earned Badges](https://www.credly.com/users/ansima-cibalinda) and my [portofolio](https://elvisansima.netlify.app/)
+🖐️ Chekout my [Earned Badges](https://www.credly.com/users/ansima-cibalinda) and my [portofolio](https://ansima.dev/)
   
 
 🤝 I've participated in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
@@ -38,7 +34,7 @@ About myself
   
 - 🎓 &nbsp; I've graduate in Electronics and Telecommunication Technology, from the Kigali Independent University (ULK), class of 2019-2020
 - 💼 ~&nbsp; I work at **[CTL.Co sarl](https://www.ctlcosarl.com)** as an Engineering Manager & Fullstack developer (Part-Time)~
-- ✍️ &nbsp; I used to be versatile and flexible working with different tech stacks.
+- ✍️ &nbsp; I'm comfortable jumping into different tech stacks and adapting easily.
 
 
 :rocket: Tech Stack
@@ -51,7 +47,6 @@ About myself
 <img src="https://icongr.am/devicon/javascript-original.svg?size=40&color=9e2e2e"> 
 <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=40&color=9e2e2e" height="40">
 <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=40&color=9e2e2e" heght="40">
-<img src="https://icongr.am/devicon/typescript-plain.svg?size=40&color=9e2e2e"> 
 <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=40&color=9e2e2e"> 
 <img src="https://icongr.am/devicon/ionic-original-wordmark.svg?size=60&color=9e2e2e"> 
 <img src="https://icongr.am/devicon/vuejs-original-wordmark.svg?size=40&color=9e2e2e"> 
@@ -69,11 +64,10 @@ About myself
 
 <p align="left">
 <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=41&color=9e2e2e">
-<img src="https://icongr.am/devicon/heroku-original.svg?size=41&color=9e2e2e">
 <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=41&color=9e2e2e">
 </p>
 
-
+<!--p>
 🔨 Tools
 -------------
 - :large_blue_diamond: Composer
@@ -84,7 +78,7 @@ About myself
 - :large_blue_diamond: Visual Studio Code
 - :large_blue_diamond: MYSQL WorkBench/PGAdmin/TablePlus
 <br/>
-
+</p-->
 <h3> 🎯 Portofolio </h3>
 
 <p align="left"> 
@@ -110,7 +104,7 @@ About myself
 </p>
 
 
-- Portofolio : https://elvisansima.netlify.app 
+- Portfolio : https://ansima.dev
 - Codesignal: https://app.codesignal.com/profile/ansima_elvis
 - CoderByte : https://coderbyte.com/profile/ansimapersic
 
