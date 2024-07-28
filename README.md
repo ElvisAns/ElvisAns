@@ -19,14 +19,14 @@ I'm an avid open-source enthusiast and contributor, having gained valuable insig
 
 🖐️ Passionate about open source, I actively contribute to TikiCMS. Check out my profile on [Openhub](https://openhub.net/accounts/ElvisAns)
 
-⚡ Fun fact: [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/), [Writting]([https://fr.virtualdj.com/user/ElvisAns/](https://dev.to/elvisans), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football and Watching football
+⚡ Fun fact: [Writting](https://dev.to/elvisans), [Deejaying](https://fr.virtualdj.com/user/ElvisAns/), [Designing](https://www.pinterest.com/ansimapersic/_created/) and Watching football and Watching football
 
 🖐️ Chekout my [Earned Badges](https://www.credly.com/users/ansima-cibalinda) and my [portofolio](https://ansima.dev/)
   
 
 🤝 I've participated in Vantoria attendance project from @ctlcosarl [vantoria_attendance](https://demo.vantoria.ctlcosarl.com)
 
-🔭 I’m currently supporting the team behind a fintech project from @ctlcosarl [atalaku xpress](https://atalakuxpress.ctlcosarl.com)
+🔭 ~I’m currently supporting the team behind a fintech project from @ctlcosarl [atalaku xpress](https://atalakuxpress.ctlcosarl.com)~
 
 
 About myself
