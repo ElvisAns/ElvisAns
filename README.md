@@ -18,19 +18,11 @@
 ## 🛠️ Tech Stack
 ```js
 const skills = {
-    web: ['PHP/Laravel', 'javascript/Vue.js/Nuxtjs', 'HTML/CSS'],
+    web: ['PHP/Laravel', 'javascript/Vue.js/Nuxtjs', 'HTML/CSS', "JQuery", "Webflow"],
     embedded: ['Arduino', 'PIC', 'C'],
     interests: ['IoT', 'Web Development', 'Entrepreneurship']
 }
 ```
-
-## 🎯 Career Highlights
-
-- 🏢 Leading projects at Outliant (2023-Present)
-- 🌐 International collaboration with TikiCMS (2022)
-- 🚀 Founded Kilo volt lab (2021)
-- 💡 Built Vantoria for CTLCO
-- 🎓 Started with embedded systems in 2016
 
 ## 🎵 When Not Coding
 
