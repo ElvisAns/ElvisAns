@@ -17,11 +17,10 @@
 
 ## 🛠️ Tech Stack
 ```js
-javascript
 const skills = {
-web: ['PHP/Laravel', 'javascript/Vue.js/Nuxtjs', 'HTML/CSS'],
-embedded: ['Arduino', 'PIC', 'C'],
-interests: ['IoT', 'Web Development', 'Entrepreneurship']
+    web: ['PHP/Laravel', 'javascript/Vue.js/Nuxtjs', 'HTML/CSS'],
+    embedded: ['Arduino', 'PIC', 'C'],
+    interests: ['IoT', 'Web Development', 'Entrepreneurship']
 }
 ```
 
