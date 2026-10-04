@@ -46,20 +46,21 @@ const skills = {
 ### Webflow Importer
 
 A website migration tool that helps users move existing websites into Webflow.
-
-I built the product end to end and have already sold it multiple times, from the technical implementation to the customer experience, pricing, analytics, acquisition and ongoing product improvements.
+https://importer.kvolts-lab.com
 
 **JavaScript · Webflow · Cloudflare · Product · CRO**
 
 ### HealthLink
 
 A cloud-based digital health platform designed to provide instant access to patient medical records.
+https://gethealth.link
 
-**Laravel · Vue.js · Cloudflare · VPS · CI/CD**
+**Laravel · Vue.js · Cloudflare · Server Administration · CI/CD**
 
 ### Awesome Careers
 
 A job discovery platform using Google Search APIs and AI tools to help job seekers find opportunities.
+https://awesome-careers.com
 
 **Nuxt.js · Gemini API · Google Search APIs · Cloudflare D1**
 
